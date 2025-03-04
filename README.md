@@ -3,7 +3,7 @@
 ## Communication Protocols projects
 
 * **Router implementation (2021)** – Implemented the data-plane functionality of a router based on a given topology and routing tables, handling ARP and ICMP protocols while optimizing routing decisions for efficiency.
-* **Message management with TCP & UDP (2021)** – Developed a clisent-server application for message passing and subscription using TCP and UDP protocols, implementing connection multiplexing, a custom communication communication protocol, and a store-and-forward mechanism to ensure message delivery for desconnected clients.
+* **Message management with TCP & UDP (2021)** – Developed a client-server application for message passing and subscription using TCP and UDP protocols, implementing connection multiplexing, a custom communication protocol, and a store-and-forward mechanism to ensure message delivery for disconnected clients.
 * **Web Client. REST API communication. (2021)** – Developed a C web client to communicate with a REST API, implementing user authentication, session management, and JWT-based access control while handling JSON data.
 
 
